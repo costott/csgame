@@ -12,7 +12,7 @@ from csgame import *
 ```
 
 ## features
-### csgame.colours
+### csgame.colour
 dynamic colours with special features
 > BiColour - colour that can swap between 2 colours
 

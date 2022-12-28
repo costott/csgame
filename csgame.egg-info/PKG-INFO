@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: csgame
-Version: 0.2.0
+Version: 0.2.1
 Summary: useful tools for pygame development
 Home-page: https://github.com/costott/csgame
 Author: C Stott
@@ -26,7 +26,7 @@ from csgame import *
 ```
 
 ## features
-### csgame.colours
+### csgame.colour
 dynamic colours with special features
 > BiColour - colour that can swap between 2 colours
 
